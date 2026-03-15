@@ -4,3 +4,5 @@
 
 
 <img src="https://ease-educators.com/wp-content/uploads/2024/03/python.png" title="python" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+
