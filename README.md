@@ -7,7 +7,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
 
-</div> id="badges">
+</div id="badges">
 <a href = dbom839@gmail.com>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
 </a>
